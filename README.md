@@ -1,10 +1,9 @@
-## E aí, beleza? Eu sou o Marco Barreto
+## ✌ E aí, beleza? Eu sou o Marco Barreto
+
 - 🔭 Trabalho atualmente no [Bigdelivery](https://github.com/bigdelivery)
 - 📖 Atualmente estudando Typescript
 - ⚡ Geek
-
 ##
-
  <div>
   <a href="https://github.com/marcosouzabarreto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosouzabarreto&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
