@@ -1,4 +1,4 @@
-## ✌ E aí, beleza? Eu sou o Marco Barreto
+# ✌ E aí, beleza? Eu sou o Marco Barreto
 
 - 🔭 Trabalho atualmente no [Bigdelivery](https://github.com/bigdelivery)
 - 📖 Atualmente estudando Javascript, Typescript, React e ReactNative!
