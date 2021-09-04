@@ -1,7 +1,8 @@
 # ✌ E aí, beleza? Eu sou o Marco Barreto
 
 - 🔭  Trabalho atualmente no [Bigdelivery](https://github.com/bigdelivery)
-- 📖  Atualmente estudando Javascript, Typescript, React e ReactNative
+- 📖  Atualmente estudando Javascript, Typescript, React e ReactNative!
+- 👨‍💻  4º Semestre da faculdade de Ciência da Computação
 - ⚡  Geek
 ##
  <div>
