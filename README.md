@@ -2,7 +2,7 @@
 
 - 👨‍💻  Atualmente estudando Javascript, Typescript, React e ReactNative!
 - 🔭  Trabalho atualmente no [Bigdelivery](https://github.com/bigdelivery)
-- 📖  4º Semestre da faculdade de Ciência da Computação
+- 📖  5º Semestre da faculdade de Ciência da Computação
 - ⚡  Geek
 
 ##
