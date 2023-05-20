@@ -3,7 +3,6 @@
 - 👨‍💻  Atualmente estudando Javascript, Typescript, React e ReactNative!
 - 🔭  Trabalho atualmente no [AvantSoft](https://github.com/avantsoftware)
 - 📖  7º Semestre da faculdade de Ciência da Computação
-- ⚡  Geek
 
 ##
  <div>
