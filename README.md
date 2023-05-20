@@ -1,6 +1,6 @@
 # ✌ E aí, beleza? Eu sou o Marco Barreto
 
-- 👨‍💻  Atualmente estudando Javascript, Typescript, React e ReactNative!
+- 👨‍💻  Atualmente estudando Typescript, React, ReactNative, Python e Flask!
 - 🔭  Trabalho atualmente no [AvantSoft](https://github.com/avantsoftware)
 - 📖  7º Semestre da faculdade de Ciência da Computação
 
