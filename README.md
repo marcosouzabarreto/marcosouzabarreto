@@ -1,8 +1,8 @@
-# ✌ E aí, beleza? Eu sou o Marco Barreto
+# Hey! I'm Marco Barreto
 
-- 👨‍💻  Atualmente estudando Typescript, React, ReactNative, Python e Flask!
-- 🔭  Trabalho atualmente no [AvantSoft](https://github.com/avantsoftware)
-- 📖  7º Semestre da faculdade de Ciência da Computação
+- 👨‍💻  Currently studying Rust, OCaml and Flask!
+- 🔭  Working at [AvantSoft](https://github.com/avantsoftware)
+- 📖  Computer Science Student
 
 ##
  <div>
