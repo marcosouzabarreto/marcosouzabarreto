@@ -2,7 +2,7 @@
 
 - 👨‍💻  Currently studying Rust, OCaml and Flask!
 - 🔭  Working at [AvantSoft](https://github.com/avantsoftware)
-- 📖  Computer Science Student
+- 📖  Computer Science Bachelor
 
 ##
  <div>
