@@ -1,6 +1,6 @@
 # Hey! I'm Marco Barreto
 
-- 👨‍💻  Currently studying Rust, OCaml and Flask!
+- 👨‍💻  Currently studying Rust, OCaml and Go!
 - 🔭  Working at [AvantSoft](https://github.com/avantsoftware)
 - 📖  Computer Science Bachelor
 
